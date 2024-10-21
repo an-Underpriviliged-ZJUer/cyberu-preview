@@ -86,3 +86,5 @@ CyberU/__init__.py (which contains hundreds util funcs)
 -   [ ] 跨端探索
 -   [ ] 设计一套与 ChatGPT 交互的数据格式和自然语言库
 -   [ ] 探索更美观、更高效、更定制化的生活应用
+
+[联系作者](./link-md/lian'xi)
