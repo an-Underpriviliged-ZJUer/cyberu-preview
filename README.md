@@ -26,11 +26,11 @@
 
 *按住ctrl，单击鼠标左键以在新窗口查看*
 
-[用户列表](line-md/douyin/douyin_users.txt)
+[用户列表](./line-md/douyin/douyin_users.txt)
 
-[douyin1](link-md/douyin/douyin-crawled-sample.png)
+[douyin1](./link-md/douyin/douyin-crawled-sample.png)
 
-[douyin2](link-md/douyin/douyin-storage.png)
+[douyin2](./link-md/douyin/douyin-storage.png)
 
 ## 运行这个项目需要怎么做？
 
