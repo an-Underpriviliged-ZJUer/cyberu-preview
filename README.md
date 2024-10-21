@@ -64,7 +64,7 @@
 ```
 CyberU/__init__.py (which contains hundreds util funcs)
 *give douyin as an example
-抖音/douyin_detect.py (which import douyin_utils.py)
+code/douyin/douyin_detect.py (which import douyin_utils.py)
 ```
 
 -   项目的函数不断在根据需求而调整更新，每个业务代码中的函数和用法可能不是最新的，但几乎不会有什么变化
