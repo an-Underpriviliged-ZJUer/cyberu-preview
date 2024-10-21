@@ -26,7 +26,7 @@
 
 *按住ctrl，单击鼠标左键以在新窗口查看*
 
-[用户列表](./line-md/douyin/douyin_users.txt)
+[用户列表](./link-md/douyin/douyin_users.txt)
 
 [douyin1](./link-md/douyin/douyin-crawled-sample.png)
 
