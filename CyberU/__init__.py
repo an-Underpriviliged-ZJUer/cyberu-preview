@@ -1,3 +1,5 @@
+# this code file is a fake version. it's copied from a stable version of cyber-u, which is a package you may see on pypi.
+
 # 项目的常用函数
 
 # import
