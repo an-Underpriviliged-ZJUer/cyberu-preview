@@ -71,9 +71,7 @@ code/douyin/douyin_detect.py (which import douyin_utils.py)
 
 
 
-
-
-## 这个项目完整吗？
+# 这个项目完整吗？
 
 
 
@@ -81,9 +79,7 @@ code/douyin/douyin_detect.py (which import douyin_utils.py)
 
 
 
-
-
-## 后续有什么开发计划？
+# 后续有什么开发计划？
 
 -   [ ] 继续深耕浏览器自动化
 -   [ ] 寻找浏览器自动化的替代方案
