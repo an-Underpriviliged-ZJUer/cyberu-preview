@@ -30,7 +30,7 @@
 
 ##### 附同行现状：
 
-[NanmiCoder/MediaCrawler: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (github.com)](https://github.com/NanmiCoder/MediaCrawler)，随时需要根据反爬策略更新而调整，真实用户登陆快照+请求伪造+js逆向，是下一轮大风控反爬工程师的首要目标，付费 Pro 版和ip代理支持商引流，17+k star
+[NanmiCoder/MediaCrawler: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 (github.com)](https://github.com/NanmiCoder/MediaCrawler)，只开发了爬文字的功能，比较幽默；随时需要根据反爬策略更新而调整，真实用户登陆快照+请求伪造+js逆向，是下一轮大风控反爬工程师的首要目标，付费 Pro 版和ip代理支持商引流，17+k star
 
 [yuncaiji/API: 各种 app 逆向爬虫数据接口。抖音，小红书， 快手 ，京东， 美团 ，饿了么 ，大众点评， douyin xiaohongshu kuaishou jingdong meituan eleme dianping 抖音数据 ，美团数据 ，小红书数据， 快手数据， 点评数据。爬虫。抖音爬虫。小红书爬虫。饿了么爬虫。快手爬虫。点评爬虫。 (github.com)](https://github.com/yuncaiji/API)云采数据接口，适合商业专业用户，很快，很刑
 
